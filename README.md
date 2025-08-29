@@ -22,6 +22,21 @@ I'm currently working on <b>Capstone Project IBM Data Classification and Summari
 <h2>Latar Belakang</h2>
 <p>Pendidikan adalah proses kompleks yang dipengaruhi oleh berbagai faktor. Tiga faktor utama yang teridentifikasi memiliki dampak signifikan pada performa akademik siswa adalah pengaruh teman sebaya (Peer_Influence), kehadiran (Attendance), dan waktu belajar per minggu (Hours_Studied_Week). Memahami hubungan kausal antara faktor-faktor ini dan nilai ujian (Exam_Score) sangat krusial bagi pihak sekolah dan orang tua. Analisis ini bertujuan untuk memberikan wawasan berbasis data agar strategi peningkatan performa siswa dapat dirancang secara lebih efektif dan tepat sasaran.</p>
 
+<h2>Tujuan</h2>
+<ul>
+  <li>Menganalisis faktor-faktor yang paling dominan dalam memengaruhi performa akademik siswa.</li>
+  <li>Mengelompokkan siswa berdasarkan kategori nilai (Low, Medium, High) untuk memahami distribusi capaian akademik.</li>
+  <li>Menyusun insight yang dapat mendukung pengambilan keputusan berbasis data bagi sekolah, guru, maupun orang tua.</li>
+  <li>Menghasilkan rekomendasi strategi yang konkret dan actionable untuk meningkatkan prestasi akademik siswa.</li>
+</ul>
+
+<h2>Permasalahan</h2>
+<ul>
+  <li>Dari ketiga faktor yang dianalisis (Peer_Influence, Attendance, dan Hours_Studied_week), manakah yang paling dominan dalam memengaruhi nilai ujian siswa?</li>
+  <li>Bagaimana distribusi siswa di setiap kategori nilai ujian (Low, Medium, High)?</li>
+  <li>Apa saja rekomendasi yang relevan dan dapat diterapkan untuk meningkatkan capaian akademik siswa berdasarkan temuan analisis?</li>
+</ul>
+
 <h2>Pendekatan</h2>
 <p>Pendekatan yang digunakan dalam proyek ini meliputi beberapa tahapan utama:</p>
 <ol>
