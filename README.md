@@ -14,10 +14,15 @@ I'm currently working on <b>Capstone Project IBM Data Classification and Summari
 <h3>"Analisis Peran Teman, Absensi, dan Kedisiplinan Belajar dalam Meningkatkan Performa Siswa"</h3>
 </p>
 
-<p>
-🔗 Google Colab: <a href="https://colab.research.google.com/drive/1PPrYadbYjXgzVG6ZXVIv2Nhrl4pWQR9U?usp=sharing" target="_blank">Klik di sini</a>  
-🔗 Streamlit App (Localhost): <a href="http://localhost:8501/" target="_blank">http://localhost:8501/</a>  
-</p> 
+<p>🔗 Google Colab: 
+<a href="https://colab.research.google.com/drive/1PPrYadbYjXgzVG6ZXVIv2Nhrl4pWQR9U?usp=sharing" target="_blank">Klik di sini</a>  
+</p>
+
+<p>📊 Dashboard: 
+<a href="https://github.com/sekarzakarani/Capstone_Project-IBM_Data-Classification-and-Summarization-Using-IBM-Granite_Sekar-Novica-Azkarani/blob/f5ef9719fc3c4bb5d48b701ade6f0f36fb90e598/Capstone_Project_SekarNovicaAzkarani.zip" target="_blank">Klik di sini</a>  
+</p>
+
+ 
 
 <h2>Latar Belakang</h2>
 <p>Pendidikan adalah proses kompleks yang dipengaruhi oleh berbagai faktor. Tiga faktor utama yang teridentifikasi memiliki dampak signifikan pada performa akademik siswa adalah pengaruh teman sebaya (Peer_Influence), kehadiran (Attendance), dan waktu belajar per minggu (Hours_Studied_Week). Memahami hubungan kausal antara faktor-faktor ini dan nilai ujian (Exam_Score) sangat krusial bagi pihak sekolah dan orang tua. Analisis ini bertujuan untuk memberikan wawasan berbasis data agar strategi peningkatan performa siswa dapat dirancang secara lebih efektif dan tepat sasaran.</p>
